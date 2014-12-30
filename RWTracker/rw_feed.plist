@@ -1,0 +1,341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>category</key>
+		<string>Video Tutorials</string>
+		<key>identifier</key>
+		<string>http://www.raywenderlich.com/?p=90085</string>
+		<key>link</key>
+		<string>http://www.raywenderlich.com/90085/video-tutorial-watchkit-part-5-passing-data-segues</string>
+		<key>timestamp</key>
+		<date>2014-11-27T21:00:31Z</date>
+		<key>title</key>
+		<string>WatchKit Part 5: Passing Data with Segues</string>
+		<key>content</key>
+		<string>Passing Data with Segues</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Announcements</string>
+		<key>identifier</key>
+		<string>http://www.raywenderlich.com/?p=89992</string>
+		<key>link</key>
+		<string>http://www.raywenderlich.com/89992/happy-thanksgiving-2014</string>
+		<key>timestamp</key>
+		<date>2014-11-27T14:00:10Z</date>
+		<key>title</key>
+		<string>Happy Thanksgiving 2014!</string>
+		<key>content</key>
+		<string>In the United States, it’s Thanksgiving. On this day, we do two very important things:
+Stuff ourselves with food :]
+Give thanks for wonderful people in our lives!
+I like to take this day to thank the awesome folks who make everything we do on the site possible, and reflect back on the previous year.
+So take a look at how things have changed since last year!</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Video Tutorials</string>
+		<key>identifier</key>
+		<string>http://www.raywenderlich.com/?p=89937</string>
+		<key>link</key>
+		<string>http://www.raywenderlich.com/89937/video-tutorial-watchkit-part-4-seques</string>
+		<key>timestamp</key>
+		<date>2014-11-26T21:00:15Z</date>
+		<key>title</key>
+		<string>WatchKit Part 4: Segues</string>
+		<key>content</key>
+		<string>Segues!</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Announcements</string>
+		<key>identifier</key>
+		<string>http://www.raywenderlich.com/?p=89908</string>
+		<key>link</key>
+		<string>http://www.raywenderlich.com/89908/ios-6-tutorials-third-edition-now-available</string>
+		<key>timestamp</key>
+		<date>2014-11-26T17:37:50Z</date>
+		<key>title</key>
+		<string>iOS 6 by Tutorials Third Edition Now Available!</string>
+		<key>content</key>
+		<string>This is a quick announcement to let you know some good news – the third edition of iOS 6 by Tutorials is now available!
+In this new third edition, all of the tutorials in the book have been fully updated to Xcode 6 and iOS 8.</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Video Tutorials</string>
+		<key>identifier</key>
+		<string>http://www.raywenderlich.com/?p=89858</string>
+		<key>link</key>
+		<string>http://www.raywenderlich.com/89858/video-tutorial-watchkit-part-3-actions-outlets</string>
+		<key>timestamp</key>
+		<date>2014-11-25T21:00:01Z</date>
+		<key>title</key>
+		<string>WatchKit Part 3: Actions and Outlets</string>
+		<key>content</key>
+		<string>Actions and Outlets</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Tutorials</string>
+		<key>identifier</key>
+		<string>http://www.raywenderlich.com/?p=87595</string>
+		<key>link</key>
+		<string>http://www.raywenderlich.com/87595/intermediate-alamofire-tutorial</string>
+		<key>timestamp</key>
+		<date>2014-11-25T18:00:27Z</date>
+		<key>title</key>
+		<string>Intermediate Alamofire Tutorial</string>
+		<key>content</key>
+		<string>In Part 1 of this two part series, you will use Alamofire to build a photo gallery app that uses 500px.com as its feed. Along the way you’ll learn about Alamofire’s most important components and some other important aspects of handling network requests in your apps.</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Tutorials</string>
+		<key>identifier</key>
+		<string>http://www.raywenderlich.com/?p=85080</string>
+		<key>link</key>
+		<string>http://www.raywenderlich.com/85080/beginning-alamofire-tutorial</string>
+		<key>timestamp</key>
+		<date>2014-11-25T16:00:24Z</date>
+		<key>title</key>
+		<string>Beginning Alamofire Tutorial</string>
+		<key>content</key>
+		<string>In this second and final part of the series, you’ll add the following bits of functionality to the app:
+A photo viewer
+The ability to view comments and other details
+An option to download photos with a sleek inline progress bar
+Optimized network calls and image caching
+And yes, Virginia, there is a pull-to-refresh clause! :)</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Announcements</string>
+		<key>identifier</key>
+		<string>http://www.raywenderlich.com/?p=89819</string>
+		<key>link</key>
+		<string>http://www.raywenderlich.com/89819/rwdevcon-schedule-now-available</string>
+		<key>timestamp</key>
+		<date>2014-11-24T22:00:51Z</date>
+		<key>title</key>
+		<string>RWDevCon Schedule Now Available!</string>
+		<key>content</key>
+		<string>As you probably know, the team and I are running an iOS conference next February focused on hands-on, high quality tutorials: RWDevCon.
+Recently we put out a poll to all attendees, and had everyone vote on their favorite topics – we chose the top-voted topics, and built a schedule around that.</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Video Tutorials</string>
+		<key>identifier</key>
+		<string>http://www.raywenderlich.com/?p=89795</string>
+		<key>link</key>
+		<string>http://www.raywenderlich.com/89795/video-tutorial-watchkit-part-2-interface-size</string>
+		<key>timestamp</key>
+		<date>2014-11-24T21:00:01Z</date>
+		<key>title</key>
+		<string>WatchKit Part 2: Interface – Size</string>
+		<key>content</key>
+		<string>Interface – dealing with size</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Podcast Episodes</string>
+		<key>identifier</key>
+		<string>http://www.raywenderlich.com/?p=89806</string>
+		<key>link</key>
+		<string>http://www.raywenderlich.com/89806/watchkit-ben-morrow-podcast-s02-e07</string>
+		<key>timestamp</key>
+		<date>2014-11-24T18:51:33Z</date>
+		<key>title</key>
+		<string>WatchKit with Ben Morrow – Podcast S02 E07</string>
+		<key>content</key>
+		<string>In this episode, we talk with Tutorial Team member Ben Morrow, organizer of the recent WatchKit Hackathon, to discuss our initial impressions of the new WatchKit SDK.</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Video Tutorials</string>
+		<key>identifier</key>
+		<string>http://www.raywenderlich.com/?p=89690</string>
+		<key>link</key>
+		<string>http://www.raywenderlich.com/89690/video-tutorial-watchkit-part-1-interface-positioning</string>
+		<key>timestamp</key>
+		<date>2014-11-21T15:05:03Z</date>
+		<key>title</key>
+		<string>WatchKit Part 1: Interface – Positioning</string>
+		<key>content</key>
+		<string>Interface – dealing with positioning</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Video Tutorials</string>
+		<key>identifier</key>
+		<string>http://www.raywenderlich.com/?p=89331</string>
+		<key>link</key>
+		<string>http://www.raywenderlich.com/89331/video-tutorial-ios-app-extensions-part-2-photo-extensions-saving-data</string>
+		<key>timestamp</key>
+		<date>2014-11-18T21:00:00Z</date>
+		<key>title</key>
+		<string>iOS App Extensions Part 2: Photo Extensions: Saving Data</string>
+		<key>content</key>
+		<string>Photo Extensions: Saving data</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Tutorials</string>
+		<key>identifier</key>
+		<string>http://www.raywenderlich.com/?p=88853</string>
+		<key>link</key>
+		<string>http://www.raywenderlich.com/88853/rubymotion-tutorial-for-beginners-part-2</string>
+		<key>timestamp</key>
+		<date>2014-11-18T14:00:40Z</date>
+		<key>title</key>
+		<string>RubyMotion Tutorial for Beginners: Part 2</string>
+		<key>content</key>
+		<string>In this second and final part of the series, you will add the rest of the logic to this app, including making the label count down and getting the app fully wrapped up.</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Podcast Episodes</string>
+		<key>identifier</key>
+		<string>http://www.raywenderlich.com/?p=89302</string>
+		<key>link</key>
+		<string>http://www.raywenderlich.com/89302/unity-with-brian-moakley-podcast-s02-e06</string>
+		<key>timestamp</key>
+		<date>2014-11-17T20:00:15Z</date>
+		<key>title</key>
+		<string>Unity with Brian Moakley – Podcast S02 E06</string>
+		<key>content</key>
+		<string>In this episode, we talk with Brian Moakley, employee #1 at Razeware LLC (the company behind this site), and the developer of a 18-part Introduction to Unity video tutorial series.</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Video Tutorials</string>
+		<key>identifier</key>
+		<string>http://www.raywenderlich.com/?p=89264</string>
+		<key>link</key>
+		<string>http://www.raywenderlich.com/89264/video-tutorial-photo-extensions-part-1-getting-started</string>
+		<key>timestamp</key>
+		<date>2014-11-17T15:00:14Z</date>
+		<key>title</key>
+		<string>iOS App Extensions Part 1: Photo Extensions: Getting Started</string>
+		<key>content</key>
+		<string>Photo Extensions: Getting started</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Video Tutorials</string>
+		<key>identifier</key>
+		<string>http://www.raywenderlich.com/?p=89258</string>
+		<key>link</key>
+		<string>http://www.raywenderlich.com/89258/video-tutorial-ios-app-extensions-part-0-introduction</string>
+		<key>timestamp</key>
+		<date>2014-11-17T14:00:49Z</date>
+		<key>title</key>
+		<string>iOS App Extensions Part 0: Introduction</string>
+		<key>content</key>
+		<string>Introduction to iOS App Extensions</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Video Tutorials</string>
+		<key>identifier</key>
+		<string>http://www.raywenderlich.com/?p=88988</string>
+		<key>link</key>
+		<string>http://www.raywenderlich.com/88988/video-tutorial-introduction-cloudkit-part-13-deploying</string>
+		<key>timestamp</key>
+		<date>2014-11-16T21:00:16Z</date>
+		<key>title</key>
+		<string>Introduction to CloudKit Part 13: Deploying</string>
+		<key>content</key>
+		<string>CloudKit: Deploying</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Video Tutorials</string>
+		<key>identifier</key>
+		<string>http://www.raywenderlich.com/?p=88983</string>
+		<key>link</key>
+		<string>http://www.raywenderlich.com/88983/video-tutorial-introduction-cloudkit-part-12-user-discovery</string>
+		<key>timestamp</key>
+		<date>2014-11-15T21:00:38Z</date>
+		<key>title</key>
+		<string>Introduction to CloudKit Part 12: User Discovery</string>
+		<key>content</key>
+		<string>CloudKit: User discovery</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Video Tutorials</string>
+		<key>identifier</key>
+		<string>http://www.raywenderlich.com/?p=88880</string>
+		<key>link</key>
+		<string>http://www.raywenderlich.com/88880/video-tutorial-introduction-cloudkit-part-11-account-metadata</string>
+		<key>timestamp</key>
+		<date>2014-11-14T21:00:56Z</date>
+		<key>title</key>
+		<string>Introduction to CloudKit Part 11: Account Metadata</string>
+		<key>content</key>
+		<string>CloudKit: Account metadata</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Tutorials</string>
+		<key>identifier</key>
+		<string>http://www.raywenderlich.com/?p=87650</string>
+		<key>link</key>
+		<string>http://www.raywenderlich.com/87650/preparing-apple-watch-prototype-heartbeat-app</string>
+		<key>timestamp</key>
+		<date>2014-11-14T17:00:43Z</date>
+		<key>title</key>
+		<string>Preparing for the Apple Watch: a Prototype Heartbeat App</string>
+		<key>content</key>
+		<string>With the initial release of the WatchKit SDK expected later this month, it’s not too early to start thinking about apps you might want to work on.</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Video Tutorials</string>
+		<key>identifier</key>
+		<string>http://www.raywenderlich.com/?p=88814</string>
+		<key>link</key>
+		<string>http://www.raywenderlich.com/88814/video-tutorial-introduction-cloudkit-part-10-user-accounts</string>
+		<key>timestamp</key>
+		<date>2014-11-13T20:00:11Z</date>
+		<key>title</key>
+		<string>Introduction to CloudKit Part 10: User Accounts</string>
+		<key>content</key>
+		<string>CloudKit: User accounts</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Tutorials</string>
+		<key>identifier</key>
+		<string>http://www.raywenderlich.com/?p=78264</string>
+		<key>link</key>
+		<string>http://www.raywenderlich.com/78264/learn-to-code-ios-apps-with-swift-tutorial-5</string>
+		<key>timestamp</key>
+		<date>2014-11-13T17:00:30Z</date>
+		<key>title</key>
+		<string>Learn To Code iOS Apps With Swift Tutorial 5: Making it Beautiful</string>
+		<key>content</key>
+		<string>In this fifth and final part of the series, how about you take the game from last time and make it look a little more visually appealing?
+This part of the series will teach you how to use images for the background of different objects on the screen to spice it up a bit. Also, you will learn how to implement background music and sound effects. Let’s get started!</string>
+	</dict>
+	<dict>
+		<key>category</key>
+		<string>Tutorials</string>
+		<key>identifier</key>
+		<string>http://www.raywenderlich.com/?p=77176</string>
+		<key>link</key>
+		<string>http://www.raywenderlich.com/77176/learn-to-code-ios-apps-with-swift-tutorial-4</string>
+		<key>timestamp</key>
+		<date>2014-11-13T16:00:34Z</date>
+		<key>title</key>
+		<string>Learn To Code iOS Apps With Swift Tutorial 4: Your First App</string>
+		<key>content</key>
+		<string>In this fourth part of the series, it’s finally time to make your first iPhone App!
+In this tutorial, you will learn how to make a simple game called Tap Me! The objective of the app will be to click a button as many times as you can in 30 seconds. Let’s get started.</string>
+	</dict>
+</array>
+</plist>
